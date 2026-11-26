@@ -1,0 +1,41 @@
+# secrets
+.env
+*.env
+!.env.example
+secrets/
+*.pem
+*.key
+token
+
+# data
+data/
+*.duckdb
+*.duckdb.wal
+*.sqlite
+*.sqlite3
+*.db
+*.parquet
+*.csv
+!tests/fixtures/*.csv
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# node
+node_modules/
+dist/
+build/
+.next/
+*.log
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
