@@ -1,0 +1,82 @@
+{
+  "nba_scoreboard_20261127": {
+    "fetched_at": "2026-11-26T11:41:48+00:00",
+    "file": "nba_scoreboard_20261127.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "b156785e64d1015f190ac4e7ea443465afff1641e2cb59b4e874c0868ecc5073",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127"
+  },
+  "nba_teams": {
+    "fetched_at": "2026-11-26T11:41:47+00:00",
+    "file": "nba_teams.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "1c4a6f1a6875cce84921bfcbdc2d038882c9a3097d2c6dd20eb3713ea864a692",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams"
+  },
+  "nfl_injuries": {
+    "fetched_at": "2026-11-26T11:41:46+00:00",
+    "file": "nfl_injuries.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "0cac9d2dc03ccf120869f023d0c381382a5467db980ea2a86f6892a922080894",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries"
+  },
+  "nfl_scoreboard_20261122": {
+    "fetched_at": "2026-11-26T11:41:43+00:00",
+    "file": "nfl_scoreboard_20261122.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "029aa41ea807221e4ba6605b51321ef945bd7b829fd79334f05ba91e1ff17241",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122"
+  },
+  "nfl_scoreboard_20261124": {
+    "fetched_at": "2026-11-26T11:47:03+00:00",
+    "file": "nfl_scoreboard_20261124.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "fba7a68f472a89b77b5d6d3804573b3d5ea1f0fac671ee14c8edcaca6ab21a00",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261124"
+  },
+  "nfl_scoreboard_20261126": {
+    "fetched_at": "2026-11-26T11:41:43+00:00",
+    "file": "nfl_scoreboard_20261126.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "45469cce12d47d5d422f09a46d5cce1b15eef53f9f256e0b1be6e86c11bf5c5a",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126"
+  },
+  "nfl_scoreboard_20261129": {
+    "fetched_at": "2026-11-26T11:41:44+00:00",
+    "file": "nfl_scoreboard_20261129.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "d5d49881182c08c389984ec66489e5357d21f4f5196b0928c2ef8c5d3f40cc96",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261129"
+  },
+  "nfl_teams": {
+    "fetched_at": "2026-11-26T11:41:42+00:00",
+    "file": "nfl_teams.json.gz",
+    "removed_keys": [
+      "headshot",
+      "logos"
+    ],
+    "sha256": "023da7a3a34bd1529d87717a06e94f5e8381bf6c2750de2368de6a887fb87f9c",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams"
+  }
+}
